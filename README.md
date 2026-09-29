@@ -1,1 +1,1 @@
-# Boring-College-II
+记录大学2.0阶段学习。
